@@ -8,11 +8,11 @@ for (let i = 1; i < numberOfChats; i++) {
 // this is the signed-in user object
 const authedUser = {
     id: '12',
-    name: "Behnam Azimi",
-    username: "bhnmzm",
+    name: "Chhavi Mangla",
+    username: "chhavi_mangla",
     online: true,
     lastSeen: "Today",
-    avatar: "https://randomuser.me/api/portraits/men/1.jpg"
+    avatar: "avatar/avatar_pic.jpg"
 };
 
 // create instance of ChatApp,
